@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Apzzd
 
 <!--
 **apzzd/apzzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Not much to say here. I really like coding and participating in ORCSGirls Classes. Feel free to check out my website at https://apzzd.github.io for some of my websites and Girl Scout Badge blogs.
