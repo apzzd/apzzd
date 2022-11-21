@@ -1,3 +1,3 @@
-Hey. Check out my website for some work / drawings / bio.
+Hello. Check out [my website](apzzd.github.io) for some work / drawings / bio.
 
-[apzzd.github.io](apzzd.github.io)
+"The glass is neither half empty or half full, it's simply larger than it needs to be." - Grace Hopper
