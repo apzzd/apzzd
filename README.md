@@ -1,1 +1,1 @@
-this account is pretty inactive, and i did most of the things you see here before 2024
+hey there! check out [my blog](apzz.github.io)
