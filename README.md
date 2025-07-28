@@ -1,1 +1,1 @@
-hey there! check out [my blog](https://apzzd.github.io/)
+hey there! here's [my blog](https://apzzd.github.io/)
