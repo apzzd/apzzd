@@ -1,1 +1,1 @@
-hey there! check out [my blog](apzz.github.io)
+hey there! check out [my blog](apzzd.github.io)
